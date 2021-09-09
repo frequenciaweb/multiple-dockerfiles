@@ -1,4 +1,4 @@
-﻿# Como utilizar o buid do Docker em Ambientes Diferentes
+﻿# Como utilizar o build do Docker em Ambientes Diferentes
 
 
 ## Example Schema 1
